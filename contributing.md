@@ -76,6 +76,7 @@ No hace falta que sean perfectos.
 
 Desde tu fork:
 - Ve a **Pull Requests**
+- Haz la **Pull Request hacia la rama develop**
 - Clic en **New Pull Request**
 
 En la descripción explica:
