@@ -104,7 +104,7 @@ No hace falta usar inglés obligatorio.
 Cuando termines tu tarea:
 
 1. Sube tu rama a tu fork
-2. Abre un **Pull Request** al repositorio original
+2. Abre un **Pull Request** a la rama develop del repositorio original
 
 ### El PR debe incluir:
 
